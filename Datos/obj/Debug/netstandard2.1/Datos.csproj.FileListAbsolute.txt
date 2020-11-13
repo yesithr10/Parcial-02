@@ -1,0 +1,12 @@
+C:\Users\ORLAN\Desktop\parcial 2\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\ORLAN\Desktop\parcial 2\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\ORLAN\Desktop\parcial 2\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\ORLAN\Desktop\parcial 2\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ORLAN\Desktop\parcial 2\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\ORLAN\Desktop\parcial 2\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\ORLAN\Desktop\parcial 2\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\ORLAN\Desktop\parcial 2\Datos\bin\Debug\netstandard2.1\Entidad.dll
+C:\Users\ORLAN\Desktop\parcial 2\Datos\bin\Debug\netstandard2.1\Entidad.pdb
+C:\Users\ORLAN\Desktop\parcial 2\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\ORLAN\Desktop\parcial 2\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\ORLAN\Desktop\parcial 2\Datos\obj\Debug\netstandard2.1\Datos.pdb

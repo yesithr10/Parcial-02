@@ -1,0 +1,9 @@
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\bin\Debug\netstandard2.1\Entidad.deps.json
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\bin\Debug\netstandard2.1\Entidad.dll
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\bin\Debug\netstandard2.1\Entidad.pdb
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\obj\Debug\netstandard2.1\Entidad.csprojAssemblyReference.cache
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\obj\Debug\netstandard2.1\Entidad.AssemblyInfoInputs.cache
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\obj\Debug\netstandard2.1\Entidad.AssemblyInfo.cs
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\obj\Debug\netstandard2.1\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\obj\Debug\netstandard2.1\Entidad.dll
+C:\Users\ORLAN\Desktop\parcial 2\Entidad\obj\Debug\netstandard2.1\Entidad.pdb

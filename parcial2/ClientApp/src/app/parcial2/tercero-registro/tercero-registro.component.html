@@ -3,6 +3,9 @@
       <label for="formGroupExampleInput">Cedula</label>
       <input type="text" class="form-control" id="cedula" name="cedula" placeholder="Digite su cedula">
     </div>
+
+    <button type="button" class="btn btn-info">Buscar</button>
+
     <div class="form-group">
       <label for="formGroupExampleInput2">Nombre completo</label>
       <input type="text" class="form-control" id="nombrecompleto" name="nombrecompleto" placeholder="Digite su nombre">
@@ -31,6 +34,9 @@
         <label for="formGroupExampleInput2">Fecha</label>
         <input type="date" class="form-control" id="fecha" name="fecha" placeholder="Digite la fecha">
     </div>
+    <button type="button" class="btn btn-primary">Registrar</button>
+    <button type="button" [routerLink]="['/pagoRegistro']" class="btn btn-success">Pagar</button>
+
 
 
     

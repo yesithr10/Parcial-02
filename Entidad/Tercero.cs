@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace Entidad
@@ -13,6 +14,6 @@ namespace Entidad
         public string Pais { get; set; }
         public string Departamento { get; set; }
         public string Ciudad { get; set; }
-
+        public List<Pago> Pagos { get; set; }
     }
 }

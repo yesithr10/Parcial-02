@@ -11,3 +11,4 @@ C:\Users\ORLAN\Desktop\parcial 2\Logica\obj\Debug\netstandard2.1\Logica.csproj.C
 C:\Users\ORLAN\Desktop\parcial 2\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
 C:\Users\ORLAN\Desktop\parcial 2\Logica\obj\Debug\netstandard2.1\Logica.dll
 C:\Users\ORLAN\Desktop\parcial 2\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\ORLAN\Desktop\parcial 2\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache

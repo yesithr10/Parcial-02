@@ -1,4 +1,5 @@
 export class Pago {
+    codigo: string;
     tipoPago: string;
     fechaPago: string;
     valorPago: number;
